@@ -120,8 +120,6 @@ Experienced in developing Django-based applications with real-world functionalit
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Yankachi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-Yankachi&theme=tokyo-night&hide_border=true"/>
-
 </div>
 
 ---
@@ -146,9 +144,9 @@ Experienced in developing Django-based applications with real-world functionalit
 
 ---
 
-<div align="center">
+# 🧠 LeetCode Statistics
 
-## 🧠 LeetCode Stats
+<div align="center">
 
 <img width="70%" src="https://leetcard.jacoblin.cool/Tejas_1484?theme=dark&font=Nunito&ext=heatmap"/>
 
@@ -156,11 +154,11 @@ Experienced in developing Django-based applications with real-world functionalit
 
 ---
 
-# 🐍 Contribution Graph
+# 💚 HackerRank Statistics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tejas-Yankachi/Tejas-Yankachi/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img src="https://hackerrank-stats.vercel.app/api?username=tejas1122004&theme=dark"/>
 
 </div>
 
