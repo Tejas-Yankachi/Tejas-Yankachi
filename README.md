@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tejas%20Yankachi&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" />
 </div>
@@ -123,4 +123,3 @@
 <p align="center">
   ⭐ “Building technology that solves real-world problems.”
 </p>
-```
