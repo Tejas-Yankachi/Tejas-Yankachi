@@ -102,13 +102,12 @@ Building scalable web applications, backend systems, and AI-powered solutions.
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Tejas-Yankachi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Yankachi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/Tejas-Yankachi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejas-Yankachi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Yankachi&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
@@ -162,6 +161,10 @@ Building scalable web applications, backend systems, and AI-powered solutions.
 
 <a href="https://www.linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tejas1122004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
