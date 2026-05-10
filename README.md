@@ -1,172 +1,126 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Tejas+Yankachi;MCA+Student+%7C+Software+Engineer;Django+Developer+%7C+AI+Enthusiast;Building+Scalable+Applications+%26+Trading+Systems" />
+# Tejas Yankachi
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Tejas%20Yankachi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+### MCA Student | Software Engineer | Django Developer
+
+<p align="center">
+Building scalable web applications, AI-powered systems, and real-time software solutions.
+</p>
+
+<p align="center">
+📍 India
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Django+Developer;AI+%26+Backend+Engineering+Enthusiast;Building+Real-Time+Applications" />
 
 </div>
 
-<h2 align="center">
-💻 MCA Student • Full-Stack Developer • AI Enthusiast
-</h2>
+---
 
-<p align="center">
-📍 India &nbsp; | &nbsp; 🚀 Aspiring Software Engineer &nbsp; | &nbsp; 📈 Trading Tech Builder
+## 👨‍💻 About Me
+
+- MCA student with strong interest in Software Engineering and Backend Development
+- Experienced in building Django-based full-stack applications
+- Passionate about Data Structures, Algorithms, and scalable system design
+- Exploring AI applications, REST APIs, and real-time architectures
+- Developing trading analytics and live monitoring systems
+
+---
+
+## 💼 Technical Skills
+
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql,javascript" />
+</p>
+
+### Frameworks & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django,html,css,bootstrap,js,fastapi" />
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </p>
 
 ---
 
-<div align="center">
+## 🚀 Featured Project
 
-## 🚀 Professional Summary
-
-</div>
-
-Passionate MCA student focused on building scalable web applications, AI-powered systems, and real-time trading platforms.
-
-Strong interest in:
-- Software Engineering
-- Backend Development
-- System Design
-- API Integrations
-- Real-Time Applications
-- Problem Solving & DSA
-
-Experienced in developing Django-based applications with real-world functionality including:
-- Trading Signal Systems
-- Inventory Management Platforms
-- Fertilizer Recommendation Systems
-- E-Commerce Applications
-- Live Data Dashboards
-
----
-
-# 💼 Technical Skills
-
-<div align="center">
-
-## 👨‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql,javascript" />
-
----
-
-## 🌐 Frameworks & Technologies
-
-<img src="https://skillicons.dev/icons?i=django,html,css,bootstrap,js,fastapi" />
-
----
-
-## 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
-
-</div>
-
----
-
-# 📈 Specialized Domains
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_Applications-0A66C2?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Full_Stack_Development-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/System_Design-FF6D00?style=for-the-badge&logo=icloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Algorithmic_Trading-7B1FA2?style=for-the-badge&logo=tradingview&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_APIs-00897B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Real_Time_Applications-D500F9?style=for-the-badge&logo=firebase&logoColor=white"/>
-
-</div>
-
----
-
-# 🚀 Featured Live Application
-
-<div align="center">
+### Live Web Application
 
 <a href="https://tejas1484.pythonanywhere.com/" target="_blank">
-
-<img src="https://img.shields.io/badge/🌐_Live_Project-Visit_Web_Application-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Visit_Live_Project-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</div>
+---
+
+## 📌 Current Focus
+
+- Scalable Django application development
+- Backend engineering and API integration
+- Competitive programming and DSA
+- Real-time stock market analysis systems
+- AI-powered software applications
 
 ---
 
-# 📌 Current Focus
+## 📊 GitHub Statistics
 
-```yaml
-- Building scalable Django applications
-- Developing AI-powered systems
-- Practicing DSA & competitive coding
-- Creating real-time stock analysis tools
-- Strengthening backend engineering concepts
-- Exploring scalable architectures
-```
+<p align="center">
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Tejas-Yankachi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 📊 GitHub Analytics
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Yankachi&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejas-Yankachi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Yankachi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
+</p>
 
 ---
 
-# 🏆 Coding Profiles
+## 🏆 Coding Profiles
 
-<div align="center">
+<p align="left">
 
 <a href="https://leetcode.com/u/Tejas_1484/">
-
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/tejas1122004">
-
-<img src="https://img.shields.io/badge/HackerRank-Programming-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# 🧠 LeetCode Statistics
+## 🧠 LeetCode Statistics
 
-<div align="center">
+<p align="center">
 
-<img width="70%" src="https://leetcard.jacoblin.cool/Tejas_1484?theme=dark&font=Nunito&ext=heatmap"/>
+<img width="70%" src="https://leetcard.jacoblin.cool/Tejas_1484?theme=dark&font=Nunito"/>
 
-</div>
+</p>
 
 ---
 
-# 💚 HackerRank Statistics
+## 💚 HackerRank Statistics
 
-<div align="center">
+<p align="center">
 
 <img src="https://hackerrank-stats.vercel.app/api?username=tejas1122004&theme=dark"/>
 
-</div>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
 
 <a href="https://github.com/Tejas-Yankachi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -176,18 +130,12 @@ Experienced in developing Django-based applications with real-world functionalit
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:tejas1122004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### ⚡ Engineering scalable solutions with clean architecture and real-world impact.
+### Engineering reliable and scalable software solutions.
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
