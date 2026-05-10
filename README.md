@@ -58,21 +58,11 @@
 
 ---
 
-## 🛠️ Tools
+# 🚀 Live Demo Application
 
 <p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Live Demo Projects
-
-<p align="center">
-<a href="https://tejas1484.pythonanywhere.com/">
-<img src="https://img.shields.io/badge/Live_Demo-Visit_Web_App-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://tejas1484.pythonanywhere.com/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Web_App-00C853?style=for-the-badge"/>
 </a>
 </p>
 
@@ -91,11 +81,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Tejas-Yankachi&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejas-Yankachi&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Yankachi&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Yankachi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -103,6 +93,7 @@
 # 🧩 Coding Profiles
 
 <p align="center">
+
 <a href="https://leetcode.com/u/Tejas_1484/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -110,6 +101,7 @@
 <a href="https://www.hackerrank.com/profile/tejas1122004">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -117,7 +109,7 @@
 # 🐍 GitHub Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Tejas-Yankachi/Tejas-Yankachi/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Tejas-Yankachi/Tejas-Yankachi/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
